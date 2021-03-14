@@ -1,0 +1,12 @@
+C:\Users\nguye\Desktop\Skeleton\Skeleton.Core\bin\Debug\net5.0\Skeleton.Core.deps.json
+C:\Users\nguye\Desktop\Skeleton\Skeleton.Core\bin\Debug\net5.0\Skeleton.Core.dll
+C:\Users\nguye\Desktop\Skeleton\Skeleton.Core\bin\Debug\net5.0\ref\Skeleton.Core.dll
+C:\Users\nguye\Desktop\Skeleton\Skeleton.Core\bin\Debug\net5.0\Skeleton.Core.pdb
+C:\Users\nguye\Desktop\Skeleton\Skeleton.Core\obj\Debug\net5.0\Skeleton.Core.csprojAssemblyReference.cache
+C:\Users\nguye\Desktop\Skeleton\Skeleton.Core\obj\Debug\net5.0\Skeleton.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\Desktop\Skeleton\Skeleton.Core\obj\Debug\net5.0\Skeleton.Core.AssemblyInfoInputs.cache
+C:\Users\nguye\Desktop\Skeleton\Skeleton.Core\obj\Debug\net5.0\Skeleton.Core.AssemblyInfo.cs
+C:\Users\nguye\Desktop\Skeleton\Skeleton.Core\obj\Debug\net5.0\Skeleton.Core.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Desktop\Skeleton\Skeleton.Core\obj\Debug\net5.0\Skeleton.Core.dll
+C:\Users\nguye\Desktop\Skeleton\Skeleton.Core\obj\Debug\net5.0\ref\Skeleton.Core.dll
+C:\Users\nguye\Desktop\Skeleton\Skeleton.Core\obj\Debug\net5.0\Skeleton.Core.pdb

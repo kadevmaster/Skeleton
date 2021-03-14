@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Skeleton.Services/1.0.0": {
+        "dependencies": {
+          "Skeleton.Core": "1.0.0"
+        },
+        "runtime": {
+          "Skeleton.Services.dll": {}
+        }
+      },
+      "Skeleton.Core/1.0.0": {
+        "runtime": {
+          "Skeleton.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Skeleton.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Skeleton.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

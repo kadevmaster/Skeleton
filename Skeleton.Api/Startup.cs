@@ -6,11 +6,16 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
+using Skeleton.Core;
+using Skeleton.Core.Services;
+using Skeleton.Data;
+using Skeleton.Services;
 
 namespace Skeleton.Api
 {
@@ -28,10 +33,15 @@ namespace Skeleton.Api
         {
 
             services.AddControllers();
+            services.AddDbContext<SkeletonDbContext>(options => options.UseSqlServer(Configuration.GetConnectionString("Default"), x => x.MigrationsAssembly("Skeleton.Data")));
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "Skeleton.Api", Version = "v1" });
             });
+            services.AddScoped<IUnitOfWork, UnitOfWork>();
+            services.AddTransient<IMusicService, MusicService>();
+            services.AddTransient<IArtistService, ArtistService>();
+            services.AddAutoMapper(typeof(Startup));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

@@ -1,0 +1,15 @@
+C:\Users\nguye\Desktop\Skeleton\Skeleton.Services\bin\Debug\net5.0\Skeleton.Services.deps.json
+C:\Users\nguye\Desktop\Skeleton\Skeleton.Services\bin\Debug\net5.0\Skeleton.Services.dll
+C:\Users\nguye\Desktop\Skeleton\Skeleton.Services\bin\Debug\net5.0\ref\Skeleton.Services.dll
+C:\Users\nguye\Desktop\Skeleton\Skeleton.Services\bin\Debug\net5.0\Skeleton.Services.pdb
+C:\Users\nguye\Desktop\Skeleton\Skeleton.Services\bin\Debug\net5.0\Skeleton.Core.dll
+C:\Users\nguye\Desktop\Skeleton\Skeleton.Services\bin\Debug\net5.0\Skeleton.Core.pdb
+C:\Users\nguye\Desktop\Skeleton\Skeleton.Services\obj\Debug\net5.0\Skeleton.Services.csprojAssemblyReference.cache
+C:\Users\nguye\Desktop\Skeleton\Skeleton.Services\obj\Debug\net5.0\Skeleton.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nguye\Desktop\Skeleton\Skeleton.Services\obj\Debug\net5.0\Skeleton.Services.AssemblyInfoInputs.cache
+C:\Users\nguye\Desktop\Skeleton\Skeleton.Services\obj\Debug\net5.0\Skeleton.Services.AssemblyInfo.cs
+C:\Users\nguye\Desktop\Skeleton\Skeleton.Services\obj\Debug\net5.0\Skeleton.Services.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Desktop\Skeleton\Skeleton.Services\obj\Debug\net5.0\Skeleton.Services.csproj.CopyComplete
+C:\Users\nguye\Desktop\Skeleton\Skeleton.Services\obj\Debug\net5.0\Skeleton.Services.dll
+C:\Users\nguye\Desktop\Skeleton\Skeleton.Services\obj\Debug\net5.0\ref\Skeleton.Services.dll
+C:\Users\nguye\Desktop\Skeleton\Skeleton.Services\obj\Debug\net5.0\Skeleton.Services.pdb
